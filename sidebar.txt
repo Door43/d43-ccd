@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ccd:home|Door43 (ccd)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ccd|d43-ccd repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ccd/archive/master.zip|d43-ccd.zip]]
+
+**Recent Changes**
+{{changes>ns = ccd}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ccd|Ethnologue data]]
+
